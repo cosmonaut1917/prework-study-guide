@@ -13,6 +13,5 @@ if (topic === 'HTML'){
     console.log("let's study Java script!");
 } else {
     console.log("please try again!")
-
+/*
 }
-*/
